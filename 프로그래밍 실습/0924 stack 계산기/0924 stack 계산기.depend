@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1506441692 source:d:\c언어 수업\0924 stack 계산기\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
